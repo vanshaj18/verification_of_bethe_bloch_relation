@@ -1,0 +1,163 @@
+restricted dE/dx         : 	      360.466 keV/cm	            0 eV/cm 	            0 eV/cm 	      360.466 keV/cm
+      (MeV/g/cm2)          : 	      279.431 MeV*cm2/g	            0  eV*cm2/g	            0  eV*cm2/g	      279.431 MeV*cm2/g
+ 
+  unrestricted dE/dx       : 	      281.896 keV/cm	            0 eV/cm 	            0 eV/cm 	      281.896 keV/cm
+      (MeV/g/cm2)          : 	      218.524 MeV*cm2/g	            0  eV*cm2/g	            0  eV*cm2/g	      218.524 MeV*cm2/g
+ 
+  range from restrict dE/dx: 	 5.54831 um  (0.000715732 mg/cm2)
+  range from full dE/dx    : 	 5.53192 um  (0.000713618 mg/cm2)
+ 
+  transport mean free path : 	 1.09147 um  (0.0001408 mg/cm2)
+ 
+  critical energy (Rossi)  : 	 88.2925 MeV
+  Moliere radius           : 	 0.24017 X0 =  68.4872 m  
+-------------------------------------------------------------
+restricted dE/dx         : 	      123.931 keV/cm	     0.361177 eV/cm 	            0 eV/cm 	      123.931 keV/cm
+      (MeV/g/cm2)          : 	      96.0703 MeV*cm2/g	      279.982  eV*cm2/g	            0  eV*cm2/g	      96.0706 MeV*cm2/g
+ 
+  unrestricted dE/dx       : 	      132.342 keV/cm	      3.71811 eV/cm 	            0 eV/cm 	      132.345 keV/cm
+      (MeV/g/cm2)          : 	       102.59 MeV*cm2/g	      2.88226 keV*cm2/g	            0  eV*cm2/g	      102.593 MeV*cm2/g
+ 
+  range from restrict dE/dx: 	 54.1884 um  (0.0069903 mg/cm2)
+  range from full dE/dx    : 	 53.2315 um  (0.00686686 mg/cm2)
+ 
+  transport mean free path : 	 31.4415 um  (0.00405595 mg/cm2)
+ 
+  critical energy (Rossi)  : 	 88.2925 MeV
+  Moliere radius           : 	 0.24017 X0 =  68.4872 m  
+-------------------------------------------------------------
+restricted dE/dx         : 	       19.371 keV/cm	    0.0651384 eV/cm 	            0 eV/cm 	      19.3711 keV/cm
+      (MeV/g/cm2)          : 	      15.0163 MeV*cm2/g	      50.4949  eV*cm2/g	            0  eV*cm2/g	      15.0163 MeV*cm2/g
+ 
+  unrestricted dE/dx       : 	      25.5082 keV/cm	      4.98999 eV/cm 	            0 eV/cm 	      25.5132 keV/cm
+      (MeV/g/cm2)          : 	      19.7738 MeV*cm2/g	      3.86821 keV*cm2/g	            0  eV*cm2/g	      19.7776 MeV*cm2/g
+ 
+  range from restrict dE/dx: 	 2.83413 mm  (0.365602 mg/cm2)
+  range from full dE/dx    : 	 2.24884 mm  (0.290101 mg/cm2)
+ 
+  transport mean free path : 	  1.8581 mm  (0.239695 mg/cm2)
+ 
+  critical energy (Rossi)  : 	 88.2925 MeV
+  Moliere radius           : 	 0.24017 X0 =  68.4872 m  
+-------------------------------------------------------------
+restricted dE/dx         : 	      3.15975 keV/cm	    0.0112125 eV/cm 	            0 eV/cm 	      3.15976 keV/cm
+      (MeV/g/cm2)          : 	      2.44942 MeV*cm2/g	       8.6919  eV*cm2/g	            0  eV*cm2/g	      2.44942 MeV*cm2/g
+ 
+  unrestricted dE/dx       : 	      4.69168 keV/cm	      5.38085 eV/cm 	            0 eV/cm 	      4.69706 keV/cm
+      (MeV/g/cm2)          : 	      3.63696 MeV*cm2/g	       4.1712 keV*cm2/g	            0  eV*cm2/g	      3.64113 MeV*cm2/g
+ 
+  range from restrict dE/dx: 	 18.1934 cm  ( 23.4695 mg/cm2)
+  range from full dE/dx    : 	 12.5747 cm  ( 16.2213 mg/cm2)
+ 
+  transport mean free path : 	 11.8852 cm  (  15.332 mg/cm2)
+ 
+  critical energy (Rossi)  : 	 88.2925 MeV
+  Moliere radius           : 	 0.24017 X0 =  68.4872 m  
+-------------------------------------------------------------
+restricted dE/dx         : 	      1.33041 keV/cm	   0.00482724 eV/cm 	            0 eV/cm 	      1.33042 keV/cm
+      (MeV/g/cm2)          : 	      1.03133 MeV*cm2/g	      3.74205  eV*cm2/g	            0  eV*cm2/g	      1.03133 MeV*cm2/g
+ 
+  unrestricted dE/dx       : 	      2.14489 keV/cm	      16.2646 eV/cm 	            0 eV/cm 	      2.16116 keV/cm
+      (MeV/g/cm2)          : 	      1.66271 MeV*cm2/g	      12.6082 keV*cm2/g	            0  eV*cm2/g	      1.67532 MeV*cm2/g
+ 
+  range from restrict dE/dx: 	 6.02475 m   ( 777.193 mg/cm2)
+  range from full dE/dx    : 	 3.80398 m   ( 490.713 mg/cm2)
+ 
+  transport mean free path : 	 4.88134 m   ( 629.693 mg/cm2)
+ 
+  critical energy (Rossi)  : 	 88.2925 MeV
+  Moliere radius           : 	 0.24017 X0 =  68.4872 m  
+-------------------------------------------------------------
+restricted dE/dx         : 	      1.56666 keV/cm	   0.00429203 eV/cm 	            0 eV/cm 	      1.56666 keV/cm
+      (MeV/g/cm2)          : 	      1.21446 MeV*cm2/g	      3.32716  eV*cm2/g	            0  eV*cm2/g	      1.21446 MeV*cm2/g
+ 
+  unrestricted dE/dx       : 	      2.55605 keV/cm	      230.661 eV/cm 	            0 eV/cm 	      2.78671 keV/cm
+      (MeV/g/cm2)          : 	      1.98143 MeV*cm2/g	      178.807 keV*cm2/g	            0  eV*cm2/g	      2.16024 MeV*cm2/g
+ 
+  range from restrict dE/dx: 	 68.1901 m   ( 8.79652 g/cm2 )
+  range from full dE/dx    : 	 40.2136 m   ( 5.18756 g/cm2 )
+ 
+  transport mean free path : 	  217.93 m   (  28.113 g/cm2 )
+ 
+  critical energy (Rossi)  : 	 88.2925 MeV
+  Moliere radius           : 	 0.24017 X0 =  68.4872 m  
+-------------------------------------------------------------
+restricted dE/dx         : 	      1.89757 keV/cm	  0.000696036 eV/cm 	            0 eV/cm 	      1.89757 keV/cm
+      (MeV/g/cm2)          : 	      1.47099 MeV*cm2/g	     0.539563  eV*cm2/g	            0  eV*cm2/g	      1.47099 MeV*cm2/g
+ 
+  unrestricted dE/dx       : 	      3.11944 keV/cm	      3.08753 keV/cm	            0 eV/cm 	      6.20696 keV/cm
+      (MeV/g/cm2)          : 	      2.41817 MeV*cm2/g	      2.39343 MeV*cm2/g	            0  eV*cm2/g	       4.8116 MeV*cm2/g
+ 
+  range from restrict dE/dx: 	 565.368 m   ( 72.9325 g/cm2 )
+  range from full dE/dx    : 	 246.041 m   ( 31.7392 g/cm2 )
+ 
+  transport mean free path : 	 15.8464 km  ( 2.04418 kg/cm2)
+ 
+  critical energy (Rossi)  : 	 88.2925 MeV
+  Moliere radius           : 	 0.24017 X0 =  68.4872 m  
+-------------------------------------------------------------
+restricted dE/dx         : 	      1.99852 keV/cm	  7.99287e-06 eV/cm 	            0 eV/cm 	      1.99852 keV/cm
+      (MeV/g/cm2)          : 	      1.54924 MeV*cm2/g	   0.00619603  eV*cm2/g	            0  eV*cm2/g	      1.54924 MeV*cm2/g
+ 
+  unrestricted dE/dx       : 	      3.44901 keV/cm	      34.0716 keV/cm	            0 eV/cm 	      37.5206 keV/cm
+      (MeV/g/cm2)          : 	      2.67365 MeV*cm2/g	      26.4121 MeV*cm2/g	            0  eV*cm2/g	      29.0858 MeV*cm2/g
+ 
+  range from restrict dE/dx: 	 5.11688 km  ( 660.078 g/cm2 )
+ 
+  transport mean free path : 	 1570.13 km  ( 202.547 kg/cm2)
+ 
+  critical energy (Rossi)  : 	 88.2925 MeV
+  Moliere radius           : 	 0.24017 X0 =  68.4872 m  
+-------------------------------------------------------------
+restricted dE/dx         : 	       2.0063 keV/cm	  7.76514e-08 eV/cm 	            0 eV/cm 	       2.0063 keV/cm
+      (MeV/g/cm2)          : 	      1.55527 MeV*cm2/g	  6.01949e-05  eV*cm2/g	            0  eV*cm2/g	      1.55527 MeV*cm2/g
+ 
+  unrestricted dE/dx       : 	      3.68477 keV/cm	      352.643 keV/cm	            0 eV/cm 	      356.328 keV/cm
+      (MeV/g/cm2)          : 	      2.85641 MeV*cm2/g	      273.367 MeV*cm2/g	            0  eV*cm2/g	      276.223 MeV*cm2/g
+ 
+  range from restrict dE/dx: 	 49.9869 km  ( 6.44831 kg/cm2)
+ 
+  transport mean free path : 	  156854 km  ( 20234.2 kg/cm2)
+ 
+  critical energy (Rossi)  : 	 88.2925 MeV
+  Moliere radius           : 	 0.24017 X0 =  68.4872 m  
+-------------------------------------------------------------
+restricted dE/dx         : 	       2.0063 keV/cm	  7.74025e-10 eV/cm 	            0 eV/cm 	       2.0063 keV/cm
+      (MeV/g/cm2)          : 	      1.55527 MeV*cm2/g	  6.00019e-07  eV*cm2/g	            0  eV*cm2/g	      1.55527 MeV*cm2/g
+ 
+  unrestricted dE/dx       : 	       3.9127 keV/cm	      3.54546 MeV/cm	            0 eV/cm 	      3.54937 MeV/cm
+      (MeV/g/cm2)          : 	       3.0331 MeV*cm2/g	      2.74842 GeV*cm2/g	            0  eV*cm2/g	      2.75145 GeV*cm2/g
+ 
+  range from restrict dE/dx: 	 498.574 km  (  64.316 kg/cm2)
+ 
+  transport mean free path : 	1.5684e+07 km  (2.02323e+06 kg/cm2)
+ 
+  critical energy (Rossi)  : 	 88.2925 MeV
+  Moliere radius           : 	 0.24017 X0 =  68.4872 m  
+-------------------------------------------------------------
+restricted dE/dx         : 	       2.0063 keV/cm	  7.73775e-12 eV/cm 	            0 eV/cm 	       2.0063 keV/cm
+      (MeV/g/cm2)          : 	      1.55527 MeV*cm2/g	  5.99826e-09  eV*cm2/g	            0  eV*cm2/g	      1.55527 MeV*cm2/g
+ 
+  unrestricted dE/dx       : 	      4.14061 keV/cm	      35.4824 MeV/cm	            0 eV/cm 	      35.4866 MeV/cm
+      (MeV/g/cm2)          : 	      3.20978 MeV*cm2/g	      27.5058 GeV*cm2/g	            0  eV*cm2/g	       27.509 GeV*cm2/g
+ 
+  range from restrict dE/dx: 	 4984.44 km  ( 642.993 kg/cm2)
+ 
+  transport mean free path : 	1.56838e+09 km  (2.02321e+08 kg/cm2)
+ 
+  critical energy (Rossi)  : 	 88.2925 MeV
+  Moliere radius           : 	 0.24017 X0 =  68.4872 m  
+-------------------------------------------------------------
+restricted dE/dx         : 	       2.0063 keV/cm	   7.7375e-14 eV/cm 	            0 eV/cm 	       2.0063 keV/cm
+      (MeV/g/cm2)          : 	      1.55527 MeV*cm2/g	  5.99806e-11  eV*cm2/g	            0  eV*cm2/g	      1.55527 MeV*cm2/g
+ 
+  unrestricted dE/dx       : 	      4.36853 keV/cm	      354.828 MeV/cm	            0 eV/cm 	      354.832 MeV/cm
+      (MeV/g/cm2)          : 	      3.38646 MeV*cm2/g	       275.06 GeV*cm2/g	            0  eV*cm2/g	      275.064 GeV*cm2/g
+ 
+  range from restrict dE/dx: 	 49843.1 km  ( 6429.76 kg/cm2)
+ 
+  transport mean free path : 	1.56838e+11 km  (2.02321e+10 kg/cm2)
+ 
+  critical energy (Rossi)  : 	 88.2925 MeV
+  Moliere radius           : 	 0.24017 X0 =  68.4872 m  
+-------------------------------------------------------------

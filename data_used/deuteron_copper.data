@@ -1,0 +1,114 @@
+restricted dE/dx         : 	      377.667 MeV/cm	      377.667 MeV/cm
+      (MeV/g/cm2)          : 	      42.1503 MeV*cm2/g	      42.1503 MeV*cm2/g
+ 
+  unrestricted dE/dx       : 	      377.667 MeV/cm	      377.667 MeV/cm
+      (MeV/g/cm2)          : 	      42.1503 MeV*cm2/g	      42.1503 MeV*cm2/g
+ 
+  range from restrict dE/dx: 	 157.121 um  ( 140.781 mg/cm2)
+  range from full dE/dx    : 	 157.121 um  ( 140.781 mg/cm2)
+ 
+  transport mean free path : 	 65.3055 cm  ( 585.137 g/cm2 )
+-------------------------------------------------------------
+restricted dE/dx         : 	       120.25 MeV/cm	       120.25 MeV/cm
+      (MeV/g/cm2)          : 	      13.4208 MeV*cm2/g	      13.4208 MeV*cm2/g
+ 
+  unrestricted dE/dx       : 	       120.25 MeV/cm	       120.25 MeV/cm
+      (MeV/g/cm2)          : 	      13.4208 MeV*cm2/g	      13.4208 MeV*cm2/g
+ 
+  range from restrict dE/dx: 	 2.38041 mm  ( 2.13285 g/cm2 )
+  range from full dE/dx    : 	 2.38041 mm  ( 2.13285 g/cm2 )
+ 
+  transport mean free path : 	 218.999 m   ( 196.223 kg/cm2)
+-------------------------------------------------------------
+restricted dE/dx         : 	      71.9511 MeV/cm	      71.9511 MeV/cm
+      (MeV/g/cm2)          : 	      8.03025 MeV*cm2/g	      8.03025 MeV*cm2/g
+ 
+  unrestricted dE/dx       : 	      71.9511 MeV/cm	      71.9511 MeV/cm
+      (MeV/g/cm2)          : 	      8.03025 MeV*cm2/g	      8.03025 MeV*cm2/g
+ 
+  range from restrict dE/dx: 	 7.94205 mm  ( 7.11608 g/cm2 )
+  range from full dE/dx    : 	 7.94205 mm  ( 7.11608 g/cm2 )
+ 
+  transport mean free path : 	 2.30208 km  ( 2062.67 kg/cm2)
+-------------------------------------------------------------
+restricted dE/dx         : 	      23.7449 MeV/cm	      23.7449 MeV/cm
+      (MeV/g/cm2)          : 	      2.65011 MeV*cm2/g	      2.65011 MeV*cm2/g
+ 
+  unrestricted dE/dx       : 	      23.7449 MeV/cm	      23.7449 MeV/cm
+      (MeV/g/cm2)          : 	      2.65011 MeV*cm2/g	      2.65011 MeV*cm2/g
+ 
+  range from restrict dE/dx: 	 12.6969 cm  ( 113.764 g/cm2 )
+  range from full dE/dx    : 	  12.697 cm  ( 113.765 g/cm2 )
+ 
+  transport mean free path : 	 1089.22 km  (  975944 kg/cm2)
+-------------------------------------------------------------
+restricted dE/dx         : 	      16.8397 MeV/cm	      16.8397 MeV/cm
+      (MeV/g/cm2)          : 	      1.87943 MeV*cm2/g	      1.87943 MeV*cm2/g
+ 
+  unrestricted dE/dx       : 	      16.8397 MeV/cm	      16.8397 MeV/cm
+      (MeV/g/cm2)          : 	      1.87943 MeV*cm2/g	      1.87943 MeV*cm2/g
+ 
+  range from restrict dE/dx: 	 38.5537 cm  ( 345.441 g/cm2 )
+ 
+  transport mean free path : 	 17235.5 km  (1.5443e+07 kg/cm2)
+-------------------------------------------------------------
+restricted dE/dx         : 	      11.6521 MeV/cm	      11.6521 MeV/cm
+      (MeV/g/cm2)          : 	      1.30045 MeV*cm2/g	      1.30045 MeV*cm2/g
+ 
+  unrestricted dE/dx       : 	      12.5865 MeV/cm	      12.5865 MeV/cm
+      (MeV/g/cm2)          : 	      1.40474 MeV*cm2/g	      1.40474 MeV*cm2/g
+ 
+  range from restrict dE/dx: 	 3.54327 m   ( 3.17477 kg/cm2)
+ 
+  transport mean free path : 	1.07337e+07 km  (9.61737e+09 kg/cm2)
+-------------------------------------------------------------
+restricted dE/dx         : 	      11.4884 MeV/cm	      11.4884 MeV/cm
+      (MeV/g/cm2)          : 	      1.28218 MeV*cm2/g	      1.28218 MeV*cm2/g
+ 
+  unrestricted dE/dx       : 	      13.0352 MeV/cm	      13.0352 MeV/cm
+      (MeV/g/cm2)          : 	      1.45482 MeV*cm2/g	      1.45482 MeV*cm2/g
+ 
+  range from restrict dE/dx: 	 7.88425 m   ( 7.06429 kg/cm2)
+ 
+  transport mean free path : 	1.7172e+08 km  (1.53861e+11 kg/cm2)
+-------------------------------------------------------------
+restricted dE/dx         : 	      11.9599 MeV/cm	      11.9599 MeV/cm
+      (MeV/g/cm2)          : 	      1.33481 MeV*cm2/g	      1.33481 MeV*cm2/g
+ 
+  unrestricted dE/dx       : 	      15.0489 MeV/cm	      15.0489 MeV/cm
+      (MeV/g/cm2)          : 	      1.67956 MeV*cm2/g	      1.67956 MeV*cm2/g
+ 
+  range from restrict dE/dx: 	 41.8919 m   ( 37.5351 kg/cm2)
+ 
+  transport mean free path : 	1.07321e+11 km  (9.61596e+13 kg/cm2)
+-------------------------------------------------------------
+restricted dE/dx         : 	      12.1569 MeV/cm	      12.1569 MeV/cm
+      (MeV/g/cm2)          : 	       1.3568 MeV*cm2/g	       1.3568 MeV*cm2/g
+ 
+  unrestricted dE/dx       : 	      15.2422 MeV/cm	      15.2422 MeV/cm
+      (MeV/g/cm2)          : 	      1.70114 MeV*cm2/g	      1.70114 MeV*cm2/g
+ 
+  range from restrict dE/dx: 	 83.3042 m   ( 74.6406 kg/cm2)
+ 
+  transport mean free path : 	1.71713e+12 km  (1.53855e+15 kg/cm2)
+-------------------------------------------------------------
+restricted dE/dx         : 	      12.4144 MeV/cm	      12.4144 MeV/cm
+      (MeV/g/cm2)          : 	      1.38554 MeV*cm2/g	      1.38554 MeV*cm2/g
+ 
+  unrestricted dE/dx       : 	      15.4985 MeV/cm	      15.4985 MeV/cm
+      (MeV/g/cm2)          : 	      1.72974 MeV*cm2/g	      1.72974 MeV*cm2/g
+ 
+  range from restrict dE/dx: 	 407.466 m   ( 365.089 kg/cm2)
+ 
+  transport mean free path : 	 34.7803 pc  (9.61595e+17 kg/cm2)
+-------------------------------------------------------------
+restricted dE/dx         : 	      12.4548 MeV/cm	      12.4548 MeV/cm
+      (MeV/g/cm2)          : 	      1.39004 MeV*cm2/g	      1.39004 MeV*cm2/g
+ 
+  unrestricted dE/dx       : 	      15.5388 MeV/cm	      15.5388 MeV/cm
+      (MeV/g/cm2)          : 	      1.73425 MeV*cm2/g	      1.73425 MeV*cm2/g
+ 
+  range from restrict dE/dx: 	 809.409 m   (  725.23 kg/cm2)
+ 
+  transport mean free path : 	 556.485 pc  (1.53855e+19 kg/cm2)
+-------------------------------------------------------------
